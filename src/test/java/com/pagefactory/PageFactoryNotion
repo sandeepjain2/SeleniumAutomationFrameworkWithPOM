@@ -1,0 +1,14 @@
+Page Factory ::::::::Yes or No
+
+some notions about page factory
+
+	1. reduces verbosity.
+	2. faster than using find elements.
+	3. lazy evolution.
+	
+Problems with page factory::
+
+	1. StaleElementReferenceException
+	2. NullPointerException
+	3. Cannot use to produce dynamic elements
+	
